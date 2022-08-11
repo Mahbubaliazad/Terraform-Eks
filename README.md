@@ -155,3 +155,5 @@
 ## Who is this course for?
 - Infrastructure Architects or Sysadmins or Developers who are planning to master Terraform from Real-World perspective on AWS Cloud in combination with AWS Elastic Kubernetes Service (AWS EKS)
 - Any beginner who is interested in learning IaC Infrastructure as Code current trending tool Terraform with AWS Cloud
+
+Credit: Stacksimplify
